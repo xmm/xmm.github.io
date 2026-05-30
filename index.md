@@ -50,7 +50,7 @@ Focused on AI agent systems, trustworthy tool execution, developer workflows, an
 
 #### Global intellect service · Contract
 
-https://uds.app/
+[UDS.APP](https://uds.app/)
 
 Sep 2019 - Jul 2025 · 5 yrs 11 mos
 
@@ -89,7 +89,7 @@ Built and evolved backend services for UDS.app, a loyalty and customer engagemen
 
 #### Acronis · Full-time
 
-https://www.acronis.com/
+[Acronis](https://www.acronis.com/)
 
 Dec 2015 - Apr 2019 · 3 yrs 5 mos
 
@@ -232,3 +232,4 @@ Bachelor’s Degree, Applied Mathematics and Cybernetics
 
 * [GitHub](https://github.com/xmm)
 * [LinkedIn](https://www.linkedin.com/in/xmarat/)
+
