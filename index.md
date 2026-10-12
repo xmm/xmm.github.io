@@ -6,7 +6,7 @@ layout: default
 
 Kazan, Russia
 
-Email: xmm.dev@gmail.com | GitHub: https://github.com/xmm | Telegram: @xmmdev | [LinkedIn](https://www.linkedin.com/in/xmarat/)
+[Email](mailto:xmm.dev@gmail.com) | [GitHub](https://github.com/xmm) | [Telegram](https://t.me/xmmdev) | [LinkedIn](https://www.linkedin.com/in/xmarat/)
 
 ## Desired Position
 
@@ -15,10 +15,10 @@ Tech Lead / Staff Backend Engineer (Java/Kotlin)
 ## Summary
 
 Backend engineer and technical leader with 15+ years of experience building complex backend systems, including distributed platforms, infrastructure services, and integrations. For the past 6 years, focused on Java/Kotlin and microservices architecture.
+
 Experienced in architecture design, technical project leadership, and coordinating work across teams. Led backend initiatives from requirements analysis and technical decisions through production launch. Combines hands-on development with technical leadership, mentoring, and improving system reliability.
 
 ## Key Skills
-
 Java, Kotlin, Spring Framework, Spring WebFlux, PostgreSQL, RabbitMQ, jOOQ, Reactor, REST APIs, microservices architecture, distributed systems, backend architecture, third-party integrations, SQL, performance optimization, technical leadership, mentoring
 
 #### Languages and Technologies:
