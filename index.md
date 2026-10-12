@@ -6,7 +6,7 @@ layout: default
 
 Kazan, Russia
 
-[Email](mailto:xmm.dev@gmail.com) | [GitHub](https://github.com/xmm) | [Telegram](https://t.me/xmmdev) | [LinkedIn](https://www.linkedin.com/in/xmarat/)
+Email: [xmm.dev@gmail.com](mailto:xmm.dev@gmail.com) | GitHub: [https://github.com/xmm](https://github.com/xmm) | Telegram: [@xmmdev](https://t.me/xmmdev) | [LinkedIn](https://www.linkedin.com/in/xmarat/)
 
 ## Desired Position
 
